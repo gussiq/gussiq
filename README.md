@@ -9,7 +9,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussiq&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     <div style="display: inline_block">
- ##
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
