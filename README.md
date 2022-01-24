@@ -24,6 +24,6 @@
 <a href="https://linkedin.com/in/gussiq1" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gussiq-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/gusiqueiiraa" target="_blank">
+<a href="https://www.instagram.com/gussiq1/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gussiq-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a
