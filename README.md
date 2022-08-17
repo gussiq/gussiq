@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Itaipu Binacional with Service Desk 
 - 🌱 I’m currently learning Node JS, React js
 <div align="center">
 <a href="https://github.com/gussiq">
